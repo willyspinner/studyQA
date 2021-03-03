@@ -2,7 +2,8 @@
 Things to do:
 - [x] Create basic search engine using whoosh
 - [x] create markdown file ingestion.
-- [ ] use basic transformers extractive QA pipeline
+- [x] use basic transformers extractive QA pipeline (POC) 
+- [ ] use other pipelines
 - [ ] (search engine) create microsoft word ingestion.
 - [ ] (search engine) create pdf ingestion.
 
